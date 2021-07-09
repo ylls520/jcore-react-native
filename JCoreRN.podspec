@@ -18,5 +18,5 @@ Pod::Spec.new do |s|
   s.vendored_libraries = "ios/RCTJCoreModule/*.a"
 
   s.dependency 'React'
-  s.dependency 'JCore', '2.6.2-noidfa'
+  s.dependency 'JCore', '2.7.1-noidfa'
 end
